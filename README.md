@@ -23,6 +23,9 @@
   <a style="margin: 5px 30px" href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgressql" width="40" height="40"/> 
   </a>
+  <a style="margin: 5px 30px" href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"> 
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align="center"> 
@@ -35,8 +38,8 @@
   <a style="margin: 5px 30px" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> 
   </a>
-  <a style="margin: 5px 30px" href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+  <a style="margin: 5px 30px" href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
   <a style="margin: 5px 30px" href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> 
@@ -44,14 +47,11 @@
   <a style="margin: 5px 30px" href="https://laravel.com/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
   </a>
-  <a style="margin: 5px 30px" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
   <a style="margin: 5px 30px" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a style="margin: 5px 30px" href="https://sequelize.org/" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> 
+  <a style="margin: 5px 30px" href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> 
   </a>
 </p>
 
