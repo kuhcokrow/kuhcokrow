@@ -78,15 +78,15 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="dvlboo" height="170em"/>
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=zxkhai&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="zxkhai" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zxkhai&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="zxkhai" height="170em"/>
 </p>
 
 
 <div align="center">
 	<br/>
 	<a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=dvlboo&theme=midnight-purple&fire=EBA108" alt="dvlboo" />
+	<img src="https://streak-stats.demolab.com?user=zxkhai&theme=midnight-purple&fire=EBA108" alt="zxkhai" />
 	</a>
 </div>
 
@@ -95,8 +95,8 @@
 <div align="center"> 
 	<br/>
 	<p>Visitor count</p>
-	<a href="https://github.com/dvlboo">
-  	<img src="https://profile-counter.glitch.me/dvlboo/count.svg" />
+	<a href="https://github.com/zxkhai">
+  	<img src="https://profile-counter.glitch.me/zxkhai/count.svg" />
 	</a>
-	<p>dvlBoo | 2023</p>
+	<p>zxKhai | 2025</p>
 </div>
