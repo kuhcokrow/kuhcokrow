@@ -85,9 +85,7 @@
 
 <div align="center">
 	<br/>
-	<a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=zxkhai&theme=midnight-purple&fire=EBA108" alt="zxkhai" />
-	</a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zxkhai&theme=midnight-purple&fire=EBA108" alt="GitHub Streak zxKhai" /></a>
 </div>
 
 <hr>
