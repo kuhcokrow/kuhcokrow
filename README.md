@@ -78,14 +78,14 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=zxkhai&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="zxkhai" height="170em"/>
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zxkhai&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="zxkhai" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kuhcokrow&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="kuhcokrow" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kuhcokrow&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="kuhcokrow" height="170em"/>
 </p>
 
 
 <div align="center">
 	<br/>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zxkhai&theme=midnight-purple&fire=EBA108" alt="GitHub Streak zxKhai" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kuhcokrow&theme=midnight-purple&fire=EBA108" alt="GitHub Streak kuhcokrow" /></a>
 </div>
 
 <hr>
@@ -93,8 +93,8 @@
 <div align="center"> 
 	<br/>
 	<p>Visitor count</p>
-	<a href="https://github.com/zxkhai">
-  	<img src="https://profile-counter.glitch.me/zxkhai/count.svg" />
+	<a href="https://github.com/kuhcokrow">
+  	<img src="https://profile-counter.glitch.me/kuhcokrow/count.svg" />
 	</a>
-	<p>zxKhai | 2025</p>
+	<p>kuhcokrow | 2025</p>
 </div>
