@@ -76,14 +76,6 @@
 
 <hr>
 
-## 🏆 Achievements & Coding Habits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kuhcokrow/kuhcokrow/master/github-metrics.svg" alt="metrics" />
-</p>
-
-<hr>
-
 ## ⌨️ Wakatime — Coding Activity
 
 <!--START_SECTION:waka-->
