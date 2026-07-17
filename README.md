@@ -1,34 +1,12 @@
-<h1 align="center">Nǐ hǎo 👋, I'm Kukuh Cokro Wibowo</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:A855F7&height=220&section=header&text=Kukuh%20Cokro%20Wibowo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Web3%20Developer&descAlignY=55&descSize=18" alt="header" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Web3+%2F+Blockchain+Developer;Building+things+that+run+on+coffee+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
-
-<hr>
-
-## 🖥️ Neofetch Preview
-
-```
-       _,met$$$$$gg.          kukuh@github
-    ,g$$$$$$$$$$$$$$$P.       ------------
-  ,g$$P"     """Y$$.".        OS: Fullstack Web & Web3 Developer
- ,$$P'              `$$$.     Host: github.com/kuhcokrow
-',$$P       ,ggs.     `$$b:   Kernel: JavaScript / Python / Kotlin
-`d$$'     ,$P"'   .    $$$    Shell: bash / zsh
- $$P      d$'     ,    $$P    Frameworks: React, Next.js, Laravel, Express
- $$:      $$.   -    ,d$$'    Database: PostgreSQL, Redis
- $$;      Y$b._   _,d$P'      Blockchain: Solidity, Hardhat
- Y$$.    `.`"Y$$$$P"'         DE: VSCode
- `$$b      "-.__              Terminal: Jupyter
-  `Y$$
-   `Y$$.
-     `$$b.
-       `Y$$b.
-          `"Y$b._
-              `"""
-```
 
 <hr>
 
@@ -94,6 +72,14 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=kuhcokrow&theme=midnight-purple&fire=EBA108"/>
   </a>
+</p>
+
+<hr>
+
+## 🏆 Achievements & Coding Habits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kuhcokrow/kuhcokrow/master/github-metrics.svg" alt="metrics" />
 </p>
 
 <hr>
