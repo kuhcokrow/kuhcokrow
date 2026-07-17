@@ -79,7 +79,11 @@
 ## ⌨️ Wakatime — Coding Activity
 
 <!--START_SECTION:waka-->
-<!-- Bagian ini otomatis terisi oleh GitHub Action wakatime-wakatime-readme -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <hr>
