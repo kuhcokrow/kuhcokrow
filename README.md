@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:A855F7&height=220&section=header&text=Kukuh%20Cokro%20Wibowo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Web3%20Developer&descAlignY=55&descSize=18" alt="header" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Web3+%2F+Blockchain+Developer;Building+things+that+run+on+coffee+%E2%98%95" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:A855F7&height=220&section=header&text=Kukuh%20Cokro%20Wibowo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20and%20Web3%20Developer&descAlignY=55&descSize=18" alt="header" width="100%"/>
 </p>
 
 <hr>
@@ -79,11 +73,7 @@
 ## ⌨️ Wakatime — Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
+<!-- Bagian ini otomatis terisi oleh GitHub Action wakatime-wakatime-readme -->
 <!--END_SECTION:waka-->
 
 <hr>
