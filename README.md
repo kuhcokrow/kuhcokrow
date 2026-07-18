@@ -73,7 +73,15 @@
 ## ⌨️ Wakatime — Coding Activity
 
 <!--START_SECTION:waka-->
-<!-- Bagian ini otomatis terisi oleh GitHub Action wakatime-wakatime-readme -->
+
+```txt
+TypeScript   3 hrs 40 mins         ███████████████████░░░░░░   76.32 %
+YAML         30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Markdown     16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <hr>
